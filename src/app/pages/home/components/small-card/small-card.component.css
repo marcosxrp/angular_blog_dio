@@ -1,0 +1,22 @@
+.container__small-card{
+  display: flex;
+  gap: 1rem;
+  width: 95%;
+  height: 105px;
+  margin: 0 auto;
+  align-items: center;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.container__img{
+  width: 100%;
+  min-width: 210px;
+  max-width: 210px;
+  height: 100px;
+  overflow: hidden;
+}
+
+img{
+  width: 100%;
+}
